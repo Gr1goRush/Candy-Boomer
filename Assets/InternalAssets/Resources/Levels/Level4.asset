@@ -1,0 +1,280 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da6c366c41e4d93458a06875cc313b94, type: 3}
+  m_Name: Level4
+  m_EditorClassIdentifier: 
+  threeStarsScore: 507
+  topRows:
+  - appearInterval: 0
+    items:
+    - type: 1
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 1.9
+    items:
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+  - appearInterval: 1.9
+    items:
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+  - appearInterval: 2.9
+    items:
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 1.8
+    items:
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+  - appearInterval: 1.6
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 2.1
+    items:
+    - type: 1
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 2.5
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+  - appearInterval: 1.9
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+  - appearInterval: 2
+    items:
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+  - appearInterval: 2.8
+    items:
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 1
+  - appearInterval: 2.8
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 2
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+  - appearInterval: 2.7
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+  - appearInterval: 2.7
+    items:
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+  - appearInterval: 1.6
+    items:
+    - type: 0
+    - type: 1
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+  bottomRows:
+  - appearInterval: 0
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 2.8
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+  - appearInterval: 1.2
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+  - appearInterval: 2.7
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 2.9
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+  - appearInterval: 2
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+  - appearInterval: 1.1
+    items:
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 1.1
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 2.1
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 2.5
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+  - appearInterval: 1.6
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 1.5
+    items:
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 0
+  - appearInterval: 1.7
+    items:
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 1
+    - type: 0
+    - type: 0
+  - appearInterval: 2.4
+    items:
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 1.7
+    items:
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 1.2
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  minBombCountInRow: 0
+  maxBombCountInRow: 2
+  minItemsCountInRow: 6
+  maxItemsCountInRow: 6
+  rowsCount: 16
+  minAppearInterval: 1
+  maxAppearInterval: 3

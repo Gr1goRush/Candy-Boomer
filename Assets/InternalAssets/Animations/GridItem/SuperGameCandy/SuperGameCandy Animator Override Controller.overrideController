@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SuperGameCandy Animator Override Controller
+  m_Controller: {fileID: 9100000, guid: 17b709453721dc4439bc10fdbee8bf60, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6cb7e1d7d2449b742a77c83bf60fe55a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 48e0cf60e57744646a0c0015fbdf8cdd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a88f1e5461ac1d543bf4b7b1eae75a7f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7943cc84dcb4b3c47a0bd55330a198d8, type: 2}

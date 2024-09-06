@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da6c366c41e4d93458a06875cc313b94, type: 3}
+  m_Name: Level0
+  m_EditorClassIdentifier: 
+  threeStarsScore: 144
+  topRows:
+  - appearInterval: 0
+    items:
+    - type: 1
+    - type: 0
+    - type: 0
+    - type: 1
+  - appearInterval: 4
+    items:
+    - type: 0
+    - type: 0
+    - type: 1
+    - type: 1
+    - type: 0
+  - appearInterval: 3.9
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 4.3
+    items:
+    - type: 1
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+  - appearInterval: 4.3
+    items:
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+  - appearInterval: 3.3
+    items:
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+  bottomRows:
+  - appearInterval: 0
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 4.8
+    items:
+    - type: 0
+    - type: 1
+    - type: 0
+    - type: 0
+  - appearInterval: 3.9
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 3.3
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 1
+  - appearInterval: 3
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  - appearInterval: 3.6
+    items:
+    - type: 0
+    - type: 0
+    - type: 0
+    - type: 0
+  minBombCountInRow: 0
+  maxBombCountInRow: 2
+  minItemsCountInRow: 4
+  maxItemsCountInRow: 5
+  rowsCount: 6
+  minAppearInterval: 3
+  maxAppearInterval: 5
